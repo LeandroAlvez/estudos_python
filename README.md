@@ -1,4 +1,4 @@
-# [Curso ASIMOV ACADEMY](https://asimov.academy/)
+# [Projetos da trilha Python Start do Curso ASIMOV ACADEMY](https://asimov.academy/)
 ## Python Start
 [![Python](https://upload.wikimedia.org/wikipedia/commons/1/1b/Blue_Python_3.9_Shield_Badge.svg)](https://www.python.org/)
 
