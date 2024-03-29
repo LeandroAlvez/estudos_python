@@ -1,6 +1,6 @@
 # [Curso ASIMOV ACADEMY](https://asimov.academy/)
 ## Python Start
-[![Python](https://upload.wikimedia.org/wikipedia/commons/f/fc/Blue_Python_3.7_Shield_Badge.svg)](https://www.python.org/)
+[![Python](https://upload.wikimedia.org/wikipedia/commons/4/4f/Blue_Python_3.9%2B_Shield_Badge.svg)](https://www.python.org/)
 
 ## Conteúdo do curso
 1. ~~Lógica de programação~~
